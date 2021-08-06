@@ -1,0 +1,446 @@
+*{
+	margin: 0%;padding: 0%; box-sizing: border-box;
+}
+.background {
+	width: 100%;
+	height: 100vh;
+	/* background-image: url("hs.jpg"); */
+	
+	background-color: #fff;
+	background-size:cover;
+	background-position:center;
+	font-family:sans-serif;
+	background-repeat: no-repeat;
+}
+
+.background .mySlides{
+	margin:0;
+	padding:0;
+	width: 98%;
+	height: 100vh;
+	margin-left: 1rem;
+	
+	
+	background-size:cover;
+	background-position:center;
+	font-family:sans-serif;
+	background-repeat: no-repeat;
+	/* background-size: cover;
+	width:75% ;
+	margin-top: 50px;
+	 height:600px;
+	  margin-left: 175px; */
+
+}
+
+
+
+/* .w3-content .mySlides{
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:75% ;
+	margin-top: 50px;
+	 height:600px;
+	  margin-left: 175px;
+} */
+
+.benifet{
+	width: 100%;
+	height: 100vh;
+	background-color: #fff;
+	margin-top: 8rem;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.benifet .unlimited{
+	width: 90%;
+	height: 30vh;
+	margin-left: 5rem;
+	
+	
+}
+.benifet h1{
+	font-size: 3rem;
+	color: #fb2525;
+	margin-left: 3rem;
+	text-decoration: underline;
+	text-align: left;
+}
+.benifet .unlimited .consult{
+	width: 40%;
+	height: 19vh;
+	
+	float: left;
+	margin-left: 1rem;
+	margin-top: 1rem;
+	border: 2px solid #5DADE2;
+	box-shadow: 0px 6px 8px 12px lightgray;
+	 text-align: center; 
+	
+}
+
+
+.benifet .unlimited .consult-2{
+	width: 40%;
+	height: 19vh;
+	float: right;
+	
+	margin-right: 1rem;
+	margin-top: 1rem;
+	border: 2px solid #5DADE2;
+	box-shadow: 0px 6px 8px 12px lightgray;
+	 text-align: center; 
+	
+}
+.benifet .unlimited .consult .img{
+
+	padding-top:  1rem;
+	width: 15%;
+}
+.benifet .unlimited .consult h3{
+	float: right;
+	height: 19vh;
+	background-color: #80ff72;
+	padding-top: 2rem;
+	font-size: 1.9rem;
+	width: 70%;
+}
+
+.benifet .unlimited .consult-2 .img{
+
+	padding-top:  1rem;
+	width: 15%;
+}
+.benifet .unlimited .consult-2 h3{
+	float: right;
+	height: 19vh;
+	background-color: #80ff72;
+	padding-top: 2rem;
+	font-size: 1.9rem;
+	width: 70%;
+}
+
+
+
+
+
+
+.Provide{
+	width: 100%;
+	height: 150vh;
+	background-color: #fff;
+	margin-top: 2rem;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      
+}
+.head{
+	width: 70%;
+	height: 110vh;
+	margin-left: 14rem;
+	border: 3px solid red;
+}
+
+.Provide .clinic{
+	width: 70%;
+	height: 60vh;
+	margin-left: 14rem;
+	padding-top: 2rem;
+	background-color: #33ff99;
+	
+}
+.Provide .clinic2{
+	width: 70%;
+	height: 60vh;
+	padding-top: 2rem;
+	margin-left: 14rem;
+	background-color: #33FF99;
+	
+	
+}
+.Provide h1{
+	font-size: 3rem;
+	color: #fb2525;
+	margin-left: 3rem;
+	text-decoration: underline;
+	text-align: left;
+}
+.clinic-detail{
+	margin-top: 6rem;
+	width: 100%;
+	margin-left: 2rem;
+}
+.clinic-detail .img{
+	width: 25%;
+	float: left;
+}
+.clinic-detail .de{
+	width: 60%;
+	padding-left: 2rem;
+	padding-top: 5rem;
+	float: right;
+}
+.clinic-detail .de h2{
+ font-size: 2.1rem;
+ padding-bottom: 1rem;
+}
+
+
+.clinic-detail2{
+	
+	width: 100%;
+	margin-left: 2rem;
+}
+.clinic-detail2 .img{
+	width: 25%;
+	float: left;
+}
+.clinic-detail2 .de{
+	width: 60%;
+	padding-left: 2rem;
+	padding-top: 5rem;
+	float: right;
+}
+.clinic-detail2 .de h2{
+ font-size: 2.2rem;
+ padding-bottom: 1rem;
+}
+
+
+
+
+
+
+
+
+
+footer .footer{
+
+	 width: 100%;
+	  height: 2%;
+	  text-align: center;
+}
+.footer a{
+	font-size: 2rem;
+	text-decoration: none;
+	margin-top: 2rem;
+	padding: 4px;
+}
+.copyright{
+	font-size: 1.2rem;
+}
+.login{
+	width: 100%;
+	height: 100vh;
+	background-color: #7ee8fa;
+background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+
+	padding-top: 3rem;
+	padding-left: 3rem;
+}
+.login-detail{
+	width:90%;
+	height: 80vh;
+	border: 2px solid #33FF66;
+	
+}
+
+
+.login-detail .img{
+	float: left;
+	width: 50%;
+	height: 80vh;
+	padding-left: 2rem;
+	background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.login-detail .loginbox{
+	float:right;
+	width:50%;
+	height:80vh;
+	background:#fff;
+	color:#000;
+	
+	box-sizing:border-box;
+
+	
+	 
+}
+#a {
+	background-color: #5DADE2;
+	width: 100%;
+	height: 12vh;
+	padding-top: 15px;
+	border: 0.01px solid;
+	box-shadow: gray 2px 2px 2px;
+
+	
+	
+}
+#a h1{
+	font-size: 50px;
+	text-align: center;
+	color: #fff;
+	 
+}
+.avatar{
+	width:100px;
+    height:100px;
+	border-radius:50%;
+	margin-left: 15rem;
+}
+h1{
+	margin:0;
+	padding:0 0 20px;
+	text-align:center;
+	font-size:22px;
+}
+.loginbox p{
+	margin-left: 4rem;
+	padding:0;
+	font-size:bold;
+}
+
+.loginbox input{
+		width:80%;
+		margin-bottom:20px;
+		margin-left: 4rem;
+}
+.loginbox input[type="text"],input[type="password"]
+{       border:none;
+        border-bottom:1px solid #000;
+        background:transparent;
+        outline:none;
+        height:40px;
+        color:#000/*#fff*/;
+        font-size:16px;
+}
+.loginbox input[type="submit"]
+{border:none;
+outline:none;
+height:40px;
+background:#fb2525;
+color:#fff;
+font-size:18px;
+border-radius:20px;
+}
+.loginbox input[type="submit"]:hover
+{cursor:pointer;
+background:#ffc107;
+color:#000;
+}
+.loginbx a{
+	text-decoration:none;
+	font-size:12px;
+	line-height:20px;
+	color:green;
+	
+}
+.loginbox a:hover
+{color:red/*#ffc107*/;
+}
+.loginbox .forget{
+	margin-left: 27rem;
+	color: #fb2525;
+}
+.loginbox .account{
+	color: #fb2525;
+}
+.loginbox .para{
+	font-size: 1.2rem;
+}
+
+
+.register{
+	width: 100%;
+	height: 190vh;
+	/* background-color: #eec0c6; */
+background-image: url("backgr.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.register table{
+	width: 80%;
+	height: 160vh;
+	background-color:  #FFAE42;
+
+	margin-left: 8rem;
+	padding-top: 2rem;
+	box-shadow: 0px 10px 13px 15px #FFAE;
+}
+
+.register table td{
+	padding-left: 3rem;
+}
+.register table td input{
+width: 60%;
+height: 30px;
+color: #000;
+font-size: 1.1rem;
+text-transform: capitalize;
+}
+.register table td .gender{
+ width: 10%;
+ height: 20px;
+}
+.register table td .address{
+	width: 60%;
+	height: 88px;
+}
+.register table td button[type="submit"]{
+	width: 30%;
+   height: 35px;
+   cursor: pointer;
+	background-color: #80ff72;
+color: #000;
+	outline: none;
+   border:none;
+}
+.register table td button[type="reset"]{
+	width: 30%;
+	   height: 35px;
+	   cursor: pointer;
+	background-color: #fb2525;
+	color: #000;
+	outline: none;
+	   border:none;
+}
+.register h3{
+	font-size: 2rem;
+	padding-top: 2rem;
+}
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
